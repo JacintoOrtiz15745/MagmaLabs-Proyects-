@@ -1,0 +1,169 @@
+/* NAVBAR BACKGROUND TRANSPARENT*/
+.header .navbar
+{
+  background-color: transparent !important;
+}
+
+/* NAVBAR POSITION*/
+#navbarTogglerDemo02
+{
+  margin-left: 393px;
+  margin-top: 28px;
+}
+
+/* MENU BEGINNING */
+#img1 /* MagmaLabs Logo*/
+{
+  margin-left: 12px;
+  margin-top: 10px;
+}
+
+#OUR-SERVICES
+{
+  font-size: 16px;
+  color: #ffffff;
+  margin-right: 20px;
+}
+
+#CASE-STUDIES
+{
+  font-size: 16px;
+  color: #ffffff;
+  margin-left: 30px;
+}
+
+#ABOUT-US
+{
+  font-size: 16px;
+  color: #ffffff;
+  margin-left: 19px;
+}
+
+#BLOG
+{
+  font-size: 16px;
+  color: #ffffff;
+  margin-left: 18px;
+}
+
+#CONTACT-US
+{
+  font-size: 16px;
+  color: #f84848;
+  margin-left: 27px;
+}
+/* MENU FINAL*/
+
+/* TEXT BEGINNING*/
+#Text1 /* Empowering innovation through collaboration*/
+{
+  font-family: 'Lato';
+  font-size: 44px;
+  text-align: center;
+  color: #f84848;
+  margin-top: 65px;
+  line-height: 50px;
+}
+
+#Text2 /* Building partnerships with clients to desing user-centric web solutions, beautiful ecommerce sites, and engaging mobile apps. */
+{
+  font-family: 'Lato';
+  font-weight: 200;
+  font-size: 20px;
+  text-align: center;
+  color: #FFFFFF;
+  margin-top: 18px;
+  line-height: 32px;
+}
+/* FINAL TEXT*/
+
+/* BEGINNING UNDERLINED*/
+.underlined1
+{
+  border-bottom: 1px solid #FFFFFF;
+  padding-bottom: 1px;
+}
+
+.underlined2
+{
+  border-bottom: 1px solid #FFFFFF;
+  padding-bottom: 1px;
+}
+
+.underlined3
+{
+  border-bottom: 1px solid #FFFFFF;
+  padding-bottom: 1px;
+}
+
+.underlined4
+{
+  border-bottom: 1px solid #FFFFFF;
+  padding-bottom: 1px;
+}
+/* FINAL UNDERLINED*/
+
+body /*BACKGROUND*/
+{
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* BEGINNING MENU DOWN*/
+li /* Color points*/
+{
+  color: #f84848;
+}
+
+li span /* Menu words*/
+{
+  color: #FFFFFF;
+}
+
+#RUBY-ON-RAILS
+{
+  font-family: 'Lato';
+  font-size: 19px;
+  margin-left: 358px;
+  margin-top: 50px;
+}
+
+#SOLIDUS-SPREE
+{
+  font-family: 'Lato';
+  font-size: 19px;
+  margin-left: 52px;
+  margin-top: 50px;
+}
+
+#REACT-NATIVE
+{
+  font-family: 'Lato';
+  font-size: 19px;
+  margin-left: 46px;
+  margin-top: 50px;
+}
+
+#UX-DESIGN /* UX design*/
+{
+  font-family: 'Lato';
+  font-size: 19px;
+  margin-left: 48px;
+  margin-top: 50px;
+}
+
+#TABLE-DOWN
+{
+  margin-left: 100px;
+}
+/* MENU DOWN FINAL*/
+
+/*CONTACT BUTTON*/
+#contact-button
+{
+  margin-left: 1180px;
+  margin-top: 150px;
+  font-family: 'Lato';
+  font-size: 19px;
+  text-align:center;
+}
